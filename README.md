@@ -3,7 +3,7 @@ Praca inżynierska - portal poświęcony artykułom naukowym oparty na PBN API
 
 
 <b>pbn-app</b> <br/>
-Engine module with services, dao, controllers and whole buisness logic
+Engine module
 
 <b>pbn-web</b> <br/>
-Angular 6 module includes view 
+View - Angular 6 module 
